@@ -2,7 +2,6 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/0Kzd4k1YuCA)
 
 About This Course:
 
@@ -22,7 +21,7 @@ About This Course:
 ### Setup .env file
 
 ```bash
-PORT=5000
+PORT=5176
 MONGO_URI=your_mongo_uri
 NODE_ENV=development
 JWT_SECRET=your_jwt_secre
