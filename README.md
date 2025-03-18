@@ -1,6 +1,5 @@
 <h1 align="center">MERN Netflix Clone 🎬</h1>
-
-
+<img src = "screenshot-for-readme.png" />
 
 About This app:
 
