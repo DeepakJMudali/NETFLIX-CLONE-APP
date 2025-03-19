@@ -4,7 +4,7 @@
 
 About This app:
 
--   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
+-   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind, Redux-thunk
 -   🔐 Authentication with JWT
 -   📱 Responsive UI
 -   🎬 Fetch Movies and Tv Show
