@@ -23,7 +23,7 @@ PORT=5176
 MONGO_URI=your_mongo_uri
 NODE_ENV=development
 JWT_SECRET=your_jwt_secre
-TMDB_API_KEY=your_tmdb_api_key
+x-rapidapi-key=your_rapid_api_key
 ```
 
 ### Run this app locally
