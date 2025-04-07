@@ -24,8 +24,7 @@ MONGO_URI=your_mongo_uri
 NODE_ENV=development
 JWT_SECRET=your_jwt_secre
 choose IMDB  from rapid api and do login
-Next use
-x-rapidapi-key=your_rapid_api_key
+Then x-rapidapi-key=your_rapid_api_key
 ```
 
 ### Run this app locally
