@@ -1,25 +1,3 @@
-// import { useEffect, useState } from "react";
-// import { useContentStore } from "../store/content";
-// import axios from "axios";
-
-// const useGetTrendingContent = () => {
-// 	const [trendingContent, setTrendingContent] = useState(null);
-// 	const { contentType } = useContentStore();
-
-// 	useEffect(() => {
-// 		const getTrendingContent = async () => {
-// 			const res = await axios.get(`/api/v4/${contentType}/trending`);
-// 			console.log(res)
-// 			setTrendingContent(res.data.results);
-// 		};
-
-// 		getTrendingContent();
-// 	}, [contentType]);
-
-// 	return { trendingContent };
-// };
-// export default useGetTrendingContent;
-
 import { useEffect,useState } from "react";
 import { useSelector } from "react-redux";
 import axios from "axios";
