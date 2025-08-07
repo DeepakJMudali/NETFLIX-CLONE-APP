@@ -34,6 +34,7 @@ const AuthScreen = () => {
 						className='p-2 rounded flex-1 bg-black/80 border border-gray-700'
 						value={email}
 						onChange={(e) => setEmail(e.target.value)}
+						required
 					/>
 					<button className='bg-red-600 text-xl lg:text-2xl px-2 lg:px-6 py-1 md:py-2 rounded flex justify-center items-center'>
 						Get Started
