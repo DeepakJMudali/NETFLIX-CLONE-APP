@@ -1,6 +1,7 @@
 <h1 align="center">MERN Netflix Clone 🎬</h1>
 
-![Demo App](<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/a36d5c15-61fc-4924-8309-f12fe5fd4179" />)
+![Demo App] <img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/82e3cbee-0b5f-4d13-957f-55b25e40cd3c" />
+
 
 
 About This app:
